@@ -128,7 +128,7 @@
     font-size: xx-large;
     margin-left: 500px;
 }
-.down{
+.down{ 
     display: flex;
     flex-direction:column;
     margin: 5px;
